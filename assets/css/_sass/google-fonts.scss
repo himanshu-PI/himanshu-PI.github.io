@@ -46,6 +46,7 @@ format("truetype");
 font-weight: normal;
 font-style: normal;
 }
+
 @font-face {
 font-family: "Comfortaa-Bold";
 src: url("/fonts/Comfortaa/Comfortaa-Bold.ttf")
@@ -82,3 +83,36 @@ font-style: normal;
   font-weight: bold;
   font-style: italic;
 }
+
+
+
+
+@font-face {
+  font-family: 'GoogleSans-Regular';
+  src: url('/fonts/Google-Sans/GoogleSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GoogleSans-Bold';
+  src: url('/fonts/Google-Sans/GoogleSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'GoogleSans-Italic';
+  src: url('/fonts/Google-Sans/GoogleSans-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'GoogleSans-BoldItalic';
+  src: url('/fonts/Google-Sans/GoogleSans-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+
