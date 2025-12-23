@@ -5,8 +5,22 @@ permalink: /projects/
 published: true
 ---
 
+<p>
+</p>
 
-<div class="article-list">
+<link rel="stylesheet" href="/gallery-style.css" />
+
+<!-- <rectpackr-layout> -->
+<div class="gallery">
+<img src="/img/gallery/01.jpg" alt="Image 1">
+<img src="/img/gallery/02.jpg" alt="Image 2">
+<img src="/img/gallery/03.jpg" alt="Image 3">
+</div>
+<!-- </rectpackr-layout> ->
+
+
+
+<!-- <div class="article-list">
   {% for project in site.projects %}
 
   {% if project.redirect %}
@@ -20,6 +34,6 @@ published: true
   {% endif %}
 
   {% endfor %}
-</div>
+</div> -->
 
 
