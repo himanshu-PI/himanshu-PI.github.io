@@ -12,23 +12,14 @@ published: true
 
 
 
-
 <div class="gallery">
-  <div class ="photo">
-    <img src="/img/gallery/01.jpg" alt="Image 1">
-    <span class="location">Waterloo, ON, CA</span>
-  </div>
-
 
   <div class ="photo">
     <img src="/img/gallery/02.jpg" alt="Image 2">
     <span class="location">Waterloo, CA</span>
   </div>
 
-  <div class ="photo">
-    <img src="/img/gallery/03.jpg" alt="Image 3">
-    <span class="location">Waterloo, CA</span>
-  </div>
+
 
   <div class ="photo">
     <img src="/img/gallery/04.jpeg" alt="Image 4">
@@ -40,14 +31,29 @@ published: true
     <span class="location">Waterloo, CA</span>
   </div>
 
-  <div class ="photo">
+  <!-- <div class ="photo">
     <img src="/img/gallery/09.jpeg" alt="Image 9">
     <span class="location">Bristol, UK</span>
-  </div>
+  </div> -->
 
 </div>
 
+<!-- ---------------------------------------------------- -->
+
 <div class="gallery-landscape">
+
+
+  <div class ="photo">
+    <img src="/img/gallery/01.jpg" alt="Image 1">
+    <span class="location">Waterloo, ON, CA</span>
+  </div>
+
+  <div class ="photo">
+    <img src="/img/gallery/03.jpg" alt="Image 3">
+    <span class="location">Waterloo, CA</span>
+  </div>
+
+
   <div class ="photo">
     <img src="/img/gallery/07.jpeg" alt="Image 7">
     <span class="location">Oxford, UK</span>
@@ -57,6 +63,18 @@ published: true
     <img src="/img/gallery/08.jpeg" alt="Image 8">
     <span class="location">Oxford, UK</span>
   </div>
+
+  <div class ="photo">
+    <img src="/img/gallery/10.jpeg" alt="Image 10">
+    <span class="location">Bangalore, IN</span>
+  </div>
+
+  <div class ="photo">
+    <img src="/img/gallery/11.jpeg" alt="Image 11">
+    <span class="location">Waterloo, CA</span>
+  </div>
+
+
 
 </div>
 
