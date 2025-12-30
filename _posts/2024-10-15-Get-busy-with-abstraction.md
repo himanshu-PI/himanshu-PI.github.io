@@ -5,13 +5,13 @@ date: 2024-10-15 00:55:31 +0530
 ---
 
 
-<i style = "font-size:16px; color: #293241;">There's require a certain abstraction to fight abstraction in the world.</i>
+<i class = "jost-light-italic">There's require a certain abstraction to fight abstraction in the world.</i>
 
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/faded tree.jpg" alt="Image 1" class="centered-image">
 
 
-<div style = "font-size:16px!important">
+<div class = "jost-light">
 'The Plague' maybe the best descriptiion of our situation during the time of Covid-19. Whether it comes to reaction from officials
 <blockquote>
 Please answer me quite frankly. Are you absolutely convinced it’s plague?

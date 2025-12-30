@@ -4,12 +4,12 @@ title: "Everything tastes of licorice"
 date: 2024-12-21
 ---
 
-<i style = "font-size:16px; color: #293241;">Hemingway's writings doesn't say much but still manages to communicate a lot</i>
+<i class ="jost-light-italic">Hemingway's writings doesn't say much but still manages to communicate a lot</i>
 
 <link rel="stylesheet" href="/style.css"/>
 <img src="/img/american-solitude.webp" alt="The Ebro: the great river" class="centered-image">
 
-<div style = "font-size:16px">
+<div class="jost-light">
 <p><i><a href= "https://www.goodreads.com/book/show/56814505-hills-like-white-elephants">Hills like white elphants</a></i> (1927) is a short story consists of short dialogue between an American man and a girl waiting for the train to Madrid at a Spanish train station. The conversation is central to the operation, likely abortion, that Jig has to go through.</p>
 
 <p>The story is mostly obscure, relying on symbolism and Hemingway's minimalist style, which opens it to multiple interpretations. And because of it's minimalistic style, each dialogue need to be decipher -- of course, it could easily lead to understanding and misunderstanding in many ways.</p>

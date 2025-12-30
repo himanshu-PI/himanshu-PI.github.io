@@ -4,13 +4,13 @@ title: "Absurd Discovery in the work of J.D. Salinger"
 date: 2025-05-22
 ---
 
-<i style = "font-size:16px; color: #293241;">Salinger's character suffer from what Camus define as absurd discovery.</i>
+<i class = "jost-light-italic">Salinger's character suffer from what Camus define as absurd discovery.</i>
 
 <link rel="stylesheet" href="/style.css"/>
 <!-- <img src="/img/american-solitude.webp" alt="The Ebro: the great river" class="centered-image"> -->
 
 
-<div style = "font-size:16px">
+<div class = "jost-light">
 
 <p>
 The characters of Salinger’s novel — whether Holden Caulfield from The Catcher in the Rye or the American sergeant from For Esmé – with Love and Squalor — are divorced from the life surrounding them. And if we believe Camus’s (Camus p.9) undertaking in defining the ‘absurd’, I argue that the novels through their characters describe one’s discomfort to his world — and we will take the liberty to call it ‘absurd discovery’ (Campus p.118). The word here should be taken literally — it is merely the discovery of the absurd. However, the characters do not simply stop there — it should not be said that this divorce leads to their divorce from the world, suicide or even character becoming a suicide – such as those of Hesse’s. But Salinger takes a different approach — it is acceptance of the absurdity through realization of it. Perhaps, in this regard too, it is not in contradiction to Camus since “Happiness and the absurd are two sons of the same earth.” (Campus p.118). 

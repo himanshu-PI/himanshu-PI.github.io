@@ -4,11 +4,11 @@ title: "An Account of an Ordinary Life"
 date: 2024-12-1 
 ---
 
-<i style = "font-size:16px; color: #293241;">A life of William Stoner --- reflection of many forms that love takes and powers that oppose it.</i>
+<i class ="jost-light-italic">A life of William Stoner --- reflection of many forms that love takes and powers that oppose it.</i>
 
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/books.jpg" alt="Image 1" class="centered-image">
-<div style = "font-size:16px">
+<div class = "jost-light">
 
 Stoner tells the life of a William Stoner, his wanderings to becoming a lecturer, a vindictive workplace politics, his infatuation with young woman, Edith, and the slow realization of its failure, his affair with his colleague Katherine, and his love and pursuit of literature. On the surface, Stoner's life seems to be falling through, desolate and forlorn, and he himself doesn't refute it at times, "Dispassionately, reasonably, he contemplated the failure that his life must appear to be." But Stoner is also recounting of the work one puts into life and relationship, and Stoner's passion for the knowledge and love. Love is a central to Stoner --- not just romantic but also love of knowledge, work, and friendship. "It's the love of the thing that's essential," says John Williams. And despite Stoner's failure in many aspects of life
 <blockquote>

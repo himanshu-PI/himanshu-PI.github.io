@@ -69,12 +69,44 @@ img
   
 
 blockquote {
-	font-family: "Comfortaa-Medium", sans-serif;
+	font-family: "Jost-Regular", sans-serif;
 	font-style: "normal"!important;
     margin: 1.5em 0px;
     padding: 1px 10px;
-	font-size: 16px;
-	text-align: justify;
+	font-size: 18px;
+	/* text-align: justify; */
 }
 
 
+.jost-light {
+	font-family: 'Jost-Light';
+	font-size: 18px;
+	font-style: normal;
+}
+
+
+.jost-regular {
+	font-family: 'Jost-Regular';
+	font-size: 18px;
+	font-style: normal;
+}
+
+
+.jost-italic {
+	font-family: 'Jost-Italic';
+	font-size: 18px;
+	font-style: italic
+}
+
+.jost-bold {
+	font-family: 'Jost-Bold';
+	font-size: 18px;
+	font-style: bold;
+}
+
+
+.jost-light-italic {
+	font-family: 'Jost-LightItalic';
+	font-size: 18px;
+	font-style: bold;
+}

@@ -131,6 +131,7 @@ font-style: normal;
 
 
 
+
 @font-face {
   font-family: 'Jost-Regular';
   src: url('/fonts/Jost/Jost-Regular.ttf') format('truetype');
@@ -171,6 +172,14 @@ font-style: normal;
 @font-face {
 	font-family: "Jost-Light";
 	src: url("/fonts/Jost/Jost-Light.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+  }
+
+
+  @font-face {
+	font-family: "Jost-LightItalic";
+	src: url("/fonts/Jost/Jost-LightItalic.ttf") format("truetype");
 	font-weight: normal;
 	font-style: normal;
   }

@@ -4,12 +4,12 @@ title: "Calculus of gain and loss: Rothschild's Fiddle"
 date: 2025-02-13
 ---
 
-<i style = "font-size:16px; color: #293241;">Calculus of gain and loss: Rothschild's Fiddle</i>
+<i class ="jost-light-italic">Calculus of gain and loss: Rothschild's Fiddle</i>
 
 <link rel="stylesheet" href="/style.css"/>
 <!-- <img src="/img/american-solitude.webp" alt="The Ebro: the great river" class="centered-image"> -->
 
-<div style = "font-size:16px">
+<div class = "jost-light">
 
 <p>
 In  Anton Chekhov's Rothschild's Fiddle (1894), the protagonist Yakov Ivanov undergoes a series of realization &mdash; hinging on an evolving definition of life's gain and loss &mdash; as he witnesses the death of his wife, Martha, and as he drew toward his own life's end. To Yakov, the missed opportunity for gain is a loss &mdash;  and those are thousands, and so much so to conclude, ''[So,] life to a man was a loss &mdash; death, a gain. '' Yakov, whose calculation of losses once accounted only for the number of rubles he could have earned, soon realizes that there are more meaningful aspects to the equation of gain and loss.
