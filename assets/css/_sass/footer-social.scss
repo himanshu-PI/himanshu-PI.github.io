@@ -149,9 +149,9 @@
 }
 
 
-// Add with the other social button styles
+
 .rounded-social-buttons .social-button.google-scholar {
-  background: #4285f4;  // Google Blue
+  background: #4285f4;
 }
 
 .rounded-social-buttons .social-button.google-scholar:hover,
@@ -162,14 +162,14 @@
 }
 
 .rounded-social-buttons .social-button.google-scholar img {
-  width: 25px;  // Match your font-size: 25px
+  width: 25px;
   height: 25px;
   vertical-align: middle;
   display: inline-block;
-  filter: brightness(0) invert(1);  // Makes logo white on colored background
+  filter: brightness(0) invert(1);
 }
 
 .rounded-social-buttons .social-button.google-scholar:hover img,
 .rounded-social-buttons .social-button.google-scholar:focus img {
-  filter: none;  // Removes the white filter, shows original blue/orange colors
+  filter: none;  // Shows original Google colors on hover
 }
