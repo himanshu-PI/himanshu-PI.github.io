@@ -5,6 +5,83 @@ permalink: /projects/
 published: true
 ---
 
+<style>
+
+.pub-list {
+    list-style-type: decimal;   /* 1, 2, 3 */
+    margin-left: 1px;
+    font-size: 16px;
+}
+
+.pub-list li {
+    margin-bottom: 8px;
+}
+.pub-list li::marker {
+    color: #adb5bd;   /* change to whatever color you want */
+}
+
+
+.res-list {
+    list-style-type: disc;   /* 1, 2, 3 */
+    margin-left: 1px;
+    font-size: 16px;
+}
+
+.res-list li {
+    margin-bottom: 2px;
+}
+.res-list li::marker {
+    color: #adb5bd;   /* change to whatever color you want */
+}
+
+
+.pub-style {
+  font-size: 18px;
+  font-family: EnvyCodeR-Bold;
+  margin-bottom: 2px;
+}
+
+.main-text {
+  font-size: 18px;
+}
+
+</style>
+
+<p class='main-text'>I work at the intersection of quantum metrology and quantum error correction. 
+<p>
+
+<!-- <p class='pub-style'> Research interests </p> -->
+
+
+<!-- <ul class="res-list">
+  <li>Quantum metrology </li>
+  <li>Quantum error correction</li>
+</ul> -->
+
+
+<p class='pub-style'> Publications </p>
+
+
+<ol class="pub-list">
+  <li>H. Sahu, Q. Xu, and S. Zhou. 'Achieving the Heisenberg limit using fault-tolerant quantum error correction.' arXiv: 2601.05457 </li>
+  <!-- <li>Another paper...</li> -->
+  <!-- <li>Another paper...</li> -->
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- <link rel="stylesheet" href="/gallery-style.css" />
