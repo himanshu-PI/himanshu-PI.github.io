@@ -5,10 +5,9 @@ permalink: /projects/
 published: true
 ---
 
-<p>
-</p>
 
-<link rel="stylesheet" href="/gallery-style.css" />
+
+<!-- <link rel="stylesheet" href="/gallery-style.css" />
 
 
 
@@ -31,16 +30,10 @@ published: true
     <span class="location">Waterloo, CA</span>
   </div>
 
-  <!-- <div class ="photo">
-    <img src="/img/gallery/09.jpeg" alt="Image 9">
-    <span class="location">Bristol, UK</span>
-  </div> -->
+</div> -->
 
-</div>
 
-<!-- ---------------------------------------------------- -->
-
-<div class="gallery-landscape">
+<!-- <div class="gallery-landscape">
 
 
   <div class ="photo">
@@ -76,7 +69,7 @@ published: true
 
 
 
-</div>
+</div> -->
 
 <!-- <div class="article-list">
   {% for project in site.projects %}
