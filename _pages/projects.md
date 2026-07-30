@@ -37,7 +37,7 @@ published: true
 
 .pub-style {
   font-size: 18px;
-  font-family: EnvyCodeR-Bold;
+  font-family: Jost-Bold;
   margin-bottom: 2px;
 }
 
