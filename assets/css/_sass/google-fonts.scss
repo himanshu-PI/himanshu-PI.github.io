@@ -267,3 +267,29 @@ font-style: normal;
 }
 
 
+@font-face {
+font-family: "InconsolataNerdFont-Regular";
+src: url("/fonts/Inconsolata/InconsolataNerdFont-Regular.ttf")
+format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "InconsolataNerdFontPropo-Regular";
+src: url("/fonts/Inconsolata/InconsolataNerdFontPropo-Regular.ttf")
+format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+
+// ===== OpenDyslexic 
+
+@font-face {
+font-family: "OpenDyslexicNerdFont-Regular";
+src: url("/fonts/OpenDyslexic/OpenDyslexicNerdFont-Regular.otf")
+format("truetype");
+font-weight: normal;
+font-style: normal;
+}
